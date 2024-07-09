@@ -1,0 +1,19 @@
+h1{
+    background-color: aqua;
+    margin: auto;
+    text-align:center ;
+    border-radius: 900px;
+    margin-top:20px; 
+    margin-bottom: 20px;
+    width:400px
+}
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/692/641/desktop-wallpaper-life-cycle-illustration-productive-life-goes-on-illustration-%E2%80%A2-for-you-for-mobile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+   
+    border: 5px solid white;
+    border-radius: 10px;
+}
